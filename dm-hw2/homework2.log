@@ -1,0 +1,399 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.9.15)  18 FEB 2015 21:54
+entering extended mode
+**homework2.tex
+("C:\Users\Xiaobo Zhang\Desktop\dm-hw2\homework2.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks17
+)
+("C:\Users\Xiaobo Zhang\Desktop\dm-hw2\homework2.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=614.295pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=-13.87262pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count91
+\scratchdimen=\dimen113
+\scratchbox=\box26
+\nofMPsegments=\count92
+\nofMParguments=\count93
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count94
+\MPscratchDim=\dimen114
+\MPnumerator=\count95
+\makeMPintoPDFobject=\count96
+\everyMPtoPDFconversion=\toks19
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 23.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 23.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<pca_old.png, id=1, 506.89375pt x 307.1475pt>
+File: pca_old.png Graphic file (type png)
+ <use pca_old.png>
+Package pdftex.def Info: pca_old.png used on input line 40.
+(pdftex.def)             Requested size: 289.07999pt x 175.16962pt.
+
+<pca_old_result.png, id=2, 527.72156pt x 333.49594pt>
+File: pca_old_result.png Graphic file (type png)
+ <use pca_old_result.png>
+Package pdftex.def Info: pca_old_result.png used on input line 41.
+(pdftex.def)             Requested size: 289.07999pt x 182.68546pt.
+
+<a.png, id=4, 485.56406pt x 174.6525pt>
+File: a.png Graphic file (type png)
+ <use a.png>
+Package pdftex.def Info: a.png used on input line 44.
+(pdftex.def)             Requested size: 289.07999pt x 103.97682pt.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Xiaobo Zhang/Des
+ktop/dm-hw2/pca_old.png> <C:/Users/Xiaobo Zhang/Desktop/dm-hw2/pca_old_result.p
+ng>]
+<pca_new.png, id=16, 506.89375pt x 307.1475pt>
+File: pca_new.png Graphic file (type png)
+ <use pca_new.png>
+Package pdftex.def Info: pca_new.png used on input line 47.
+(pdftex.def)             Requested size: 289.07999pt x 175.16962pt.
+
+<pca_new_result.png, id=17, 529.22719pt x 295.85532pt>
+File: pca_new_result.png Graphic file (type png)
+
+<use pca_new_result.png>
+Package pdftex.def Info: pca_new_result.png used on input line 48.
+(pdftex.def)             Requested size: 289.07999pt x 161.60587pt.
+ <b.png, id=18, 493.0922pt x 176.15813pt>
+File: b.png Graphic file (type png)
+ <use b.png>
+Package pdftex.def Info: b.png used on input line 49.
+(pdftex.def)             Requested size: 289.07999pt x 103.2792pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--51
+
+ []
+
+[2 <C:/Users/Xiaobo Zhang/Desktop/dm-hw2/a.png> <C:/Users/Xiaobo Zhang/Desktop/
+dm-hw2/pca_new.png> <C:/Users/Xiaobo Zhang/Desktop/dm-hw2/pca_new_result.png>]
+<pca_sample_old.png, id=25, 506.89375pt x 307.1475pt>
+File: pca_sample_old.png Graphic file (type png)
+ <use pca_sample_old.png>
+Package pdftex.def Info: pca_sample_old.png used on input line 55.
+(pdftex.def)             Requested size: 289.07999pt x 175.16962pt.
+
+<c.png, id=26, 530.73282pt x 249.18094pt>
+File: c.png Graphic file (type png)
+ <use c.png>
+Package pdftex.def Info: c.png used on input line 56.
+(pdftex.def)             Requested size: 289.07999pt x 135.72676pt.
+
+<d.png, id=27, 493.845pt x 175.40532pt>
+File: d.png Graphic file (type png)
+ <use d.png>
+Package pdftex.def Info: d.png used on input line 59.
+(pdftex.def)             Requested size: 289.07999pt x 102.67458pt.
+ [3 <C:/Users/Xiaobo Zhang/Desktop/dm-hw2/b.png> <C:/Users/Xiaobo Zhang/Desktop
+/dm-hw2/pca_sample_old.png> <C:/Users/Xiaobo Zhang/Desktop/dm-hw2/c.png>]
+<pca_sample_new.png, id=34, 506.89375pt x 307.1475pt>
+File: pca_sample_new.png Graphic file (type png)
+ <use pca_sample_new.png>
+Package pdftex.def Info: pca_sample_new.png used on input line 62.
+(pdftex.def)             Requested size: 289.07999pt x 175.16962pt.
+
+<e.png, id=35, 484.81125pt x 169.38281pt>
+File: e.png Graphic file (type png)
+ <use e.png>
+Package pdftex.def Info: e.png used on input line 63.
+(pdftex.def)             Requested size: 289.07999pt x 101.00241pt.
+
+<f.png, id=36, 534.49687pt x 259.7203pt>
+File: f.png Graphic file (type png)
+ <use f.png>
+Package pdftex.def Info: f.png used on input line 64.
+(pdftex.def)             Requested size: 289.07999pt x 140.47276pt.
+ [4 <C:/Users/Xiaobo Zhang/Desktop/dm-hw2/d.png> <C:/Users/Xiaobo Zhang/Desktop
+/dm-hw2/pca_sample_new.png> <C:/Users/Xiaobo Zhang/Desktop/dm-hw2/e.png> <C:/Us
+ers/Xiaobo Zhang/Desktop/dm-hw2/f.png>] <score.png, id=44, 251.43938pt x 232.61
+906pt>
+File: score.png Graphic file (type png)
+ <use score.png>
+Package pdftex.def Info: score.png used on input line 74.
+(pdftex.def)             Requested size: 289.07999pt x 267.44238pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 79.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 79.
+File: score.png Graphic file (type png)
+ <use score.png>
+Package pdftex.def Info: score.png used on input line 84.
+(pdftex.def)             Requested size: 289.07999pt x 267.44238pt.
+
+<basisvector.png, id=45, 506.89375pt x 307.1475pt>
+File: basisvector.png Graphic file (type png)
+ <use basisvector.png>
+Package pdftex.def Info: basisvector.png used on input line 85.
+(pdftex.def)             Requested size: 289.07999pt x 175.16962pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--86
+
+ []
+
+[5 <C:/Users/Xiaobo Zhang/Desktop/dm-hw2/score.png>] [6 <C:/Users/Xiaobo Zhang/
+Desktop/dm-hw2/basisvector.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+ []
+
+<top5.png, id=58, 209.28188pt x 241.65282pt>
+File: top5.png Graphic file (type png)
+ <use top5.png>
+Package pdftex.def Info: top5.png used on input line 119.
+(pdftex.def)             Requested size: 144.54pt x 166.89548pt.
+ [7 <C:/Users/Xiaobo Zhang/Desktop/dm-hw2/top5.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+
+ []
+
+<chisquare.png, id=66, 506.89375pt x 307.1475pt>
+File: chisquare.png Graphic file (type png)
+ <use chisquare.png>
+Package pdftex.def Info: chisquare.png used on input line 133.
+(pdftex.def)             Requested size: 361.34999pt x 218.96202pt.
+
+<lvphoenix.png, id=67, 506.89375pt x 307.1475pt>
+File: lvphoenix.png Graphic file (type png)
+ <use lvphoenix.png>
+Package pdftex.def Info: lvphoenix.png used on input line 155.
+(pdftex.def)             Requested size: 361.34999pt x 218.96202pt.
+ [8 <C:/Users/Xiaobo Zhang/Desktop/dm-hw2/chisquare.png>]
+<review_count.png, id=72, 506.89375pt x 307.1475pt>
+File: review_count.png Graphic file (type png)
+ <use review_count.png>
+Package pdftex.def Info: review_count.png used on input line 162.
+(pdftex.def)             Requested size: 361.34999pt x 218.96202pt.
+
+[9 <C:/Users/Xiaobo Zhang/Desktop/dm-hw2/lvphoenix.png> <C:/Users/Xiaobo Zhang/
+Desktop/dm-hw2/review_count.png>]
+("C:\Users\Xiaobo Zhang\Desktop\dm-hw2\homework2.aux") ) 
+Here is how much of TeX's memory you used:
+ 2471 strings out of 493921
+ 34544 string characters out of 3147261
+ 91676 words of memory out of 3000000
+ 5714 multiletter control sequences out of 15000+200000
+ 11559 words of font info for 44 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 42i,10n,26p,582b,340s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on homework2.pdf (9 pages, 363212 bytes).
+PDF statistics:
+ 113 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+

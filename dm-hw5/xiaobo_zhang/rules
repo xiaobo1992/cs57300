@@ -1,0 +1,24 @@
+Rule: frozenset(['friendly'])->frozenset(['isPositive'])
+                        frozenset(['friendly'])|   not   frozenset(['friendly'])
+frozenset(['isPositive'])           447      2053
+not frozenset(['isPositive'])      96          2404
+score: 254.531638728
+accuracy: 0.5702
+
+
+Rule: frozenset(['friendly', 'staff'])->frozenset(['isPositive'])
+                        frozenset(['friendly', 'staff'])|   not   frozenset(['friendly', 'staff'])
+frozenset(['isPositive'])           159      2341
+not frozenset(['isPositive'])      31          2469
+score: 89.6378159536
+accuracy: 0.5256
+
+
+Rule: frozenset(['favorite', 'friendly', 'staff'])->frozenset(['isPositive'])
+                        frozenset(['favorite', 'friendly', 'staff'])|   not   frozenset(['favorite', 'friendly', 'staff'])
+frozenset(['isPositive'])           15      2485
+not frozenset(['isPositive'])      0          2500
+score: 15.0451354062
+accuracy: 0.503
+
+
